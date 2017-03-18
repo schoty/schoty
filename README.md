@@ -1,5 +1,7 @@
 # Schoty builder
 
+[![Build Status](https://travis-ci.org/schoty/schoty-builder.svg?branch=master)](https://travis-ci.org/schoty/schoty-builder)
+
 This package conatains the builder for the schoty project. It proviedes a unifed view for multiple user-repositories and implements a synchronisation mechanism between the monorepo and the individual repositories.
 
 ## Installation notes
